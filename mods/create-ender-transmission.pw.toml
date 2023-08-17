@@ -1,0 +1,13 @@
+name = "Create: Ender Transmission"
+filename = "createendertransmission-2.0.4-1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wtW8g4TG/versions/fxu7jkTy/createendertransmission-2.0.4-1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "563cd117c429c5b85b3880099b0bfa6eeb7de25b"
+
+[update]
+[update.modrinth]
+mod-id = "wtW8g4TG"
+version = "fxu7jkTy"
