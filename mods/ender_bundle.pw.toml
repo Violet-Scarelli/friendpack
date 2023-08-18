@@ -1,0 +1,13 @@
+name = "Ender Bundle"
+filename = "enderbundle-fabric-1.11.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OLQsqQ3o/versions/fabric-1.11.0/enderbundle-fabric-1.11.0.jar"
+hash-format = "sha1"
+hash = "3370634383f60ed9d9f37a323c420761e710d6cd"
+
+[update]
+[update.modrinth]
+mod-id = "OLQsqQ3o"
+version = "5PcXWCrS"
