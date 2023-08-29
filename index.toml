@@ -371,6 +371,11 @@ hash = "83eb3d5bad961e193f6a6339af3fc6ce18756e07341c96d14887331179f50c25"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "71b666322e9d5576b92da3ae8c22c5e7d62c9715c0e874dee94dfd2e8a61c9af"
 metafile = true
